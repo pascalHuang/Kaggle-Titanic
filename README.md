@@ -1,4 +1,5 @@
-📊 Étapes réalisées
+# 📊 Étapes réalisées
+
 📌 1. Importation et exploration des données
 Visualisation des premières lignes
 
