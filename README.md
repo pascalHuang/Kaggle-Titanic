@@ -1,3 +1,7 @@
+# 🛳 Titanic - Machine Learning from Disaster
+
+Ce projet est une participation à la compétition Kaggle [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic). L'objectif est de prédire la survie des passagers à partir de caractéristiques telles que le sexe, l'âge, la classe sociale, etc.
+
 # 📊 Étapes réalisées
 
 📌 1. Importation et exploration des données
